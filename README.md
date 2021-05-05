@@ -21,3 +21,11 @@ This application has the REST APIs for: <br />
 3. Spending points of a user and returning the points spent from each payer
 
 4. Fetching the balance from each payer
+
+
+Files:
+RewardsApplication.java (src\main\java\com\fetch\rewards\RewardsApplication.java) - The main file
+RewardController.java (src\main\java\com\fetch\rewards\RewardController.java) - Controller which contains the REST APIs
+RewardService.java (src\main\java\com\fetch\rewards\RewardService.java) - Interface for the service
+RewardServiceImpl.java (src\main\java\com\fetch\rewards\RewardServiceImpl.java) - Implementation for the service, contains the logic
+Transaction.java (src\main\java\com\fetch\rewards\Transaction.java) - Model for a transaction
