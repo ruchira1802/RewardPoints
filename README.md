@@ -4,7 +4,7 @@ A simple application to store and spend reward points. <br />
 A user can receive Reward points from multiple payers. Each transaction is stored with the payer name, points and the transaction time. <br />
 A user can also spend those points, however the user won't be deciding which payer to deduct the points from. <br />
 The rules for determining that are: <br />
-  \bullet The oldest point is spent first <br />
+  The oldest point is spent first <br />
   No payer's point can be negative after spending
 
 
