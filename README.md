@@ -23,9 +23,9 @@ This application has the REST APIs for: <br />
 4. Fetching the balance from each payer
 
 
-Files:
-RewardsApplication.java (src\main\java\com\fetch\rewards\RewardsApplication.java) - The main file
-RewardController.java (src\main\java\com\fetch\rewards\RewardController.java) - Controller which contains the REST APIs
-RewardService.java (src\main\java\com\fetch\rewards\RewardService.java) - Interface for the service
-RewardServiceImpl.java (src\main\java\com\fetch\rewards\RewardServiceImpl.java) - Implementation for the service, contains the logic
-Transaction.java (src\main\java\com\fetch\rewards\Transaction.java) - Model for a transaction
+Files: <br />
+RewardsApplication.java (src\main\java\com\fetch\rewards\RewardsApplication.java) - The main  <br />
+RewardController.java (src\main\java\com\fetch\rewards\RewardController.java) - Controller which contains the REST APIs <br />
+RewardService.java (src\main\java\com\fetch\rewards\RewardService.java) - Interface for the service <br />
+RewardServiceImpl.java (src\main\java\com\fetch\rewards\RewardServiceImpl.java) - Implementation for the service, contains the logic <br />
+Transaction.java (src\main\java\com\fetch\rewards\Transaction.java) - Model for a transaction <br />
