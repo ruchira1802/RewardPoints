@@ -24,7 +24,7 @@ This application has the REST APIs for: <br />
 
 
 Files: <br />
-RewardsApplication.java (src\main\java\com\fetch\rewards\RewardsApplication.java) - The main  <br />
+RewardsApplication.java (src\main\java\com\fetch\rewards\RewardsApplication.java) - The main file <br />
 RewardController.java (src\main\java\com\fetch\rewards\RewardController.java) - Controller which contains the REST APIs <br />
 RewardService.java (src\main\java\com\fetch\rewards\RewardService.java) - Interface for the service <br />
 RewardServiceImpl.java (src\main\java\com\fetch\rewards\RewardServiceImpl.java) - Implementation for the service, contains the logic <br />
